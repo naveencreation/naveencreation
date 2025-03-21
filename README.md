@@ -105,7 +105,7 @@
 ### 💡 **Professional Goals**
 - 💻 Continuously **enhancing my skills** in AI, web development, and software engineering.  
 - 🌟 Contributing to **open-source projects** and collaborating with developers globally.  
-- 🚀 Building impactful solutions that solve real-world problems.  
+- 🚀 Building impactful solutions that solve real-world problems.        
 
 ---
 
