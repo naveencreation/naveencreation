@@ -16,7 +16,8 @@
 
 ### 💡 **Technical Skills**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,tensorflow,mongodb,docker,git,github,vscode,streamlit,react" />
+  <img src="https://skillicons.dev/icons?i=python,java,tensorflow,mongodb,docker,git,github,vscode,react" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
 </p>
 
 ---
@@ -105,7 +106,7 @@
 ### 💡 **Professional Goals**
 - 💻 Continuously **enhancing my skills** in AI, web development, and software engineering.  
 - 🌟 Contributing to **open-source projects** and collaborating with developers globally.  
-- 🚀 Building impactful solutions that solve real-world problems.        
+- 🚀 Building impactful solutions that solve real-world problems.  
 
 ---
 
