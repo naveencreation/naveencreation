@@ -80,13 +80,16 @@
 
 ---
 
+### 🚀 **Contribution Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naveencreation&theme=github" alt="Contribution Graph" />
+</p>
+
+---
+
 ### 🚀 **LeetCode & GitHub Activity**
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/naveenselvan?ext=heatmap" alt="LeetCode Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-contribution-graph.ezcode.io/?username=naveencreation&theme=blueberry" alt="Contribution Graph" />
 </p>
 
 ---
