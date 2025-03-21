@@ -65,6 +65,13 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naveencreation&show_icons=true&theme=graywhite&hide_border=true&include_all_commits=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveencreation&layout=compact&theme=graywhite&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveencreation&theme=graywhite&hide_border=true" height="165" />
+  <img src="https://leetcard.jacoblin.cool/naveenselvan?theme=light&ext=heatmap" height="165" />
+</p>
+---
 
 ### 📜 **Certifications**
 <p align="center">
