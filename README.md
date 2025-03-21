@@ -74,8 +74,9 @@
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveencreation&show_icons=true&theme=calm" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveencreation&theme=calm" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naveencreation&show_icons=true&theme=calm" alt="GitHub Stats" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveencreation&theme=calm" alt="Streak Stats" height="180em" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naveencreation&theme=github" alt="GitHub Summary" />
 </p>
 
 ---
