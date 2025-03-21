@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hi, I'm Naveen S!</h1>
+<h1 align="center">👋 Hello, I'm Naveen S</h1>
 <p align="center">
-<img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="400" height="200" alt="AI Animation">
+🚀 <b>AI Student | Software Developer | Tech Enthusiast</b>  
 </p>
 
 ---
@@ -9,53 +9,40 @@
 - 🎓 **Education:** B. Tech in Artificial Intelligence and Data Science  
 - 🏫 **College:** Karpagam College of Engineering (Graduating in 2026)  
 - 📊 **CGPA:** 8.45  
-- 🔥 **Passionate about:** LLMs, MERN stack, Java OOP, Low-Level Design  
-- 🚀 **Goal:** Building innovative AI-powered solutions and mastering system design  
-- 🌟 **Fun Fact:** I solve **LeetCode** challenges daily and experiment with new AI models.
+- 🌟 **Skills:** Java, Python, Machine Learning, Web Development  
+- 🎯 **Goal:** To create innovative AI solutions and contribute to impactful projects  
 
 ---
 
-### 💡 **Tech Stack**
+### 💡 **Technical Skills**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,tensorflow,mongodb,docker,git,github,vscode,streamlit,react,express,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,java,tensorflow,mongodb,docker,git,github,vscode,streamlit,react" />
 </p>
 
 ---
 
-### 🎯 **Key Projects**
-✅ **🚚 Vehicle Routing Problem Optimization Using Genetic Algorithm**  
-- 🛠️ **Tech:** Python, DEAP  
-- 🔥 Developed a **Genetic Algorithm (GA)** to solve the VRP, optimizing delivery routes.  
-- 💡 Reduced operational costs by **30%**, improving delivery efficiency.  
-- 🚀 Applied insights from a **Maze Solver Project** using GA for shortest-pathfinding solutions.  
-<p align="center">
-<img src="https://media.giphy.com/media/xT0xezQGU5xCDJuCPe/giphy.gif" width="400" alt="Routing Optimization">
-</p>
+### 🔥 **Projects**
+#### ✅ **Vehicle Routing Problem Optimization Using Genetic Algorithm**
+- 🛠️ **Tech Stack:** Python, DEAP  
+- 🔥 Developed a **Genetic Algorithm (GA)** to optimize delivery routes.  
+- 💡 Reduced operational costs by **30%** and improved delivery efficiency.  
+- 🚀 Applied insights from the **Maze Solver Project** using GA for shortest-pathfinding solutions.  
 
-✅ **📊 Dimensionality Reduction with K-Means and Gaussian Naive Bayes**  
-- 🛠️ **Tech:** Python, Scikit-learn  
-- 🔥 Built a classification pipeline analyzing human activity data from smartphone sensors.  
+#### ✅ **Dimensionality Reduction with K-Means and Gaussian Naive Bayes**
+- 🛠️ **Tech Stack:** Python, Scikit-learn  
+- 🔥 Built a classification pipeline for human activity recognition.  
 - 💡 Achieved **81% accuracy** with K-Means clustering for dimensionality reduction.  
 - 🚀 Reduced training and inference time by **30%**.  
-<p align="center">
-<img src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif" width="400" alt="Data Clustering">
-</p>
 
-✅ **💻 Medico Plus | Front-End Developer (Team Member)**  
-- 🛠️ **Tech:** Python, Django, HTML, CSS, MongoDB, Docker, Git, NFC  
+#### ✅ **Medico Plus | Front-End Developer**
+- 🛠️ **Tech Stack:** Python, Django, MongoDB, Docker, Git  
 - 🔥 Developed a **centralized platform** connecting patients with doctors.  
-- 💡 Added **multilingual support** and **Health Card** functionality for seamless medical record access.  
-<p align="center">
-<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="400" alt="Medico Plus">
-</p>
+- 💡 Integrated **multilingual support** and a **Health Card** feature for seamless medical record access.  
 
-✅ **🤖 Automated Machine Learning Framework (AutoML)**  
-- 🛠️ **Tech:** Python, Streamlit, Scikit-learn, TensorFlow, AutoML  
-- 🔥 Engineered a **versatile ML framework** for dataset preprocessing, algorithm recommendations, and predictive modeling.  
+#### ✅ **Automated Machine Learning Framework (AutoML)**  
+- 🛠️ **Tech Stack:** Python, Streamlit, TensorFlow, AutoML  
+- 🔥 Engineered an **AutoML framework** for automated dataset preprocessing and model selection.  
 - 💡 Improved **prediction accuracy by 20%** and reduced preprocessing time by **30%**.  
-<p align="center">
-<img src="https://media.giphy.com/media/iJCo3XbA950KcNKdx8/giphy.gif" width="400" alt="AutoML">
-</p>
 
 ---
 
@@ -87,43 +74,36 @@
 
 ### 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveencreation&show_icons=true&theme=radical" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveencreation&theme=radical" height="180em" />
-  <img src="https://github-profile-trophy.vercel.app/?username=naveencreation&theme=onedark&column=4&margin-w=15&margin-h=15" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naveencreation&show_icons=true&theme=calm" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveencreation&theme=calm" height="180em" />
 </p>
 
 ---
 
-### 🚀 **Contribution & Activity**
+### 🚀 **LeetCode & GitHub Activity**
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/naveenselvan?ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-contribution-graph.ezcode.io/?username=naveencreation&theme=dracula" alt="Contribution Graph" />
+  <img src="https://github-contribution-graph.ezcode.io/?username=naveencreation&theme=blueberry" alt="Contribution Graph" />
 </p>
 
 ---
 
-### 🎯 **Dynamic and Fun Widgets**
-- 🌱 **Random Dev Quote:**  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-
-- 🎵 **Currently Listening:**  
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31v6dgkx2akqkq7mzqklahpmdt6e&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" />
-</p>
+### 🛠️ **Technical Interests**
+- 🤖 **Artificial Intelligence:** Building **AI-powered solutions** using advanced machine learning and NLP models.  
+- 🌐 **Full-Stack Development:** Developing robust and scalable web applications.  
+- 📊 **Data Science:** Using data analysis and visualization for meaningful insights.  
 
 ---
 
-### 💡 **Fun Facts**
-- 💡 I love solving **LeetCode challenges** and building AI-powered solutions.  
-- 🚀 Constantly learning and exploring **cutting-edge AI and ML techniques**.  
-- 🛠️ Experimenting with **MERN stack** and building scalable web apps.  
-- 🎵 **Hobbies:** Coding, Reading Tech Blogs, and Listening to Music  
+### 💡 **Professional Goals**
+- 💻 Continuously **enhancing my skills** in AI, web development, and software engineering.  
+- 🌟 Contributing to **open-source projects** and collaborating with developers globally.  
+- 🚀 Building impactful solutions that solve real-world problems.  
 
 ---
 
-🔥 **Let me know if you want any further modifications or more interactive elements!** 🚀
+🔥 **Thank you for visiting my profile!**  
+🌟 **Let's connect and build something amazing together!**
