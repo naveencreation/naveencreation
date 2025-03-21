@@ -65,10 +65,14 @@
 </p>
 
 ---
+
 ### 🏆 **LeetCode Stats**
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/naveenselvan?theme=light&ext=heatmap" height="200" />
+  <a href="https://leetcode.com/u/naveenselvan/">
+    <img src="https://leetcard.jacoblin.cool/naveenselvan?theme=light&ext=heatmap" alt="LeetCode Stats" />
+  </a>
 </p>
+
 ---
 
 ### 📜 **Certifications**
