@@ -1,14 +1,28 @@
-# 👋 Welcome to My Digital Universe
-
+<h1 align="center">👋 Welcome to My Digital Universe</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=800&height=60&lines=🚀+I'm+Naveen+S+-+AI+Innovator;💻+Full-Stack+Developer+%7C+ML+Engineer;🎯+Building+Tomorrow's+Tech+Today;🌟+Open+Source+Contributor" alt="Typing Animation" />
+  
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=000000&center=true&vCenter=true&width=800&height=60&lines=🚀+I'm+Naveen+S+-+AI+Innovator;💻+Full-Stack+Developer+%7C+ML+Engineer;🎯+Building+Tomorrow's+Tech+Today;🌟+Open+Source+Contributor)
+  
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&text=&fontSize=0" />
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header)
+  
 </div>
 
 ---
+
+## 🎯 About Me
+
+**AI Innovator & Full-Stack Developer** passionate about building tomorrow's technology today.
+
+- 🔭 Currently working on **AI/ML projects** and **full-stack applications**
+- 🌱 Learning advanced **machine learning** and **cloud technologies**
+- 👯 Looking to collaborate on **open source projects**
+- 💬 Ask me about **AI, Web Development, and Tech Innovation**
+- 📫 How to reach me: **[Your Email]**
+- ⚡ Fun fact: **I turn coffee into code and ideas into reality!**
 
 ## 🎯 About Me
 
@@ -145,7 +159,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naveencreation&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=FF00F5&fire=00F5FF&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=00F5FF&dates=FFFFFF&sideLabels=FFFFFF"/>
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naveencreation&theme=tokyonight&hide_border=true)
+  
 </div>
 
 <div align="center">
@@ -237,7 +253,7 @@ graph TD
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=000000" />
 </div>
 
 <div align="center">
