@@ -1,7 +1,7 @@
 # 👋 Welcome to My Digital Universe
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=4000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&height=70&lines=🚀+I'm+Naveen+S+-+AI+Innovator;💻+Full-Stack+Developer+%7C+ML+Engineer;🎯+Building+Tomorrow's+Tech+Today;🌟+Open+Source+Contributor;🤖+Passionate+about+ML+%26+Innovation" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=800&height=60&lines=🚀+I'm+Naveen+S+-+AI+Innovator;💻+Full-Stack+Developer+%7C+ML+Engineer;🎯+Building+Tomorrow's+Tech+Today;🌟+Open+Source+Contributor" alt="Typing Animation" />
 </div>
 
 <div align="center">
@@ -15,10 +15,10 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 🎓 **Final-year B.Tech** in **Artificial Intelligence & Data Science**  
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Roboto&size=20&duration=2500&pause=500&color=FF00F5&multiline=true&width=800&height=100&lines=🚀+Passionate+about+Machine+Learning+%26+Full-Stack+Development;💡+Building+practical+AI+solutions+that+make+real-world+impact;🌟+Open+Source+enthusiast+always+ready+to+collaborate;🎯+Mission%3A+Bridging+AI+and+user-centric+applications" alt="Mission Statement" />
-</div>
+🚀 **Passionate** about **Machine Learning, Full-Stack Development & Scalable Systems**  
+💡 **Building** practical AI solutions that make a real-world impact  
+🌟 **Open Source** enthusiast always ready to collaborate  
+🎯 **Mission**: Bridging the gap between cutting-edge AI and user-centric applications
 
 <br clear="both"/>
 
@@ -238,10 +238,6 @@ graph TD
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=FFFFFF" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&width=600&height=50&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Happy+coding!+🚀" alt="Footer Animation" />
 </div>
 
 <div align="center">
