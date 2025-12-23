@@ -1,22 +1,22 @@
-name: Generate Datas
+name: Generate God-Level Assets
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch: # run manually
+  schedule:
+    - cron: "0 */24 * * *" # Runs every 24 hours
+  workflow_dispatch: # Allows manual click to run
 
 permissions:
   contents: write
 
 jobs:
   build:
-    name: Jobs to update datas
     runs-on: ubuntu-latest
+    name: Generate 3D City & Snake
     steps:
-      # 1. Checkout Repo
-      - uses: actions/checkout@v3
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
-      # 2. Generate Snake Animation (Fixed)
+      # GENERATE SNAKE ANIMATION
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
@@ -25,15 +25,15 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # 3. Generate 3D City (FIXED USERNAME HERE)
-      - name: Generate 3D Contribution Graph
+      # GENERATE 3D CITY (Corrected Author: yoshi389111)
+      - name: Generate 3D City
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      # 4. Push New Images to Output Branch
-      - name: Push to GitHub
+      # PUSH ASSETS TO BRANCH
+      - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
