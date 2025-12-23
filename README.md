@@ -16,9 +16,11 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=naveencreation&theme=gitdimmed&no-frame=true&margin-w=15&column=7" />
-  </a>
+  <h3 align="center">📡 TELEMETRY_DATA</h3>
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naveencreation&theme=tokyonight" height="180" />
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naveencreation&theme=tokyonight&utcOffset=5.5" height="180" />
 </div>
 
 <br/>
