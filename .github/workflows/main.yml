@@ -1,9 +1,9 @@
 name: Generate Datas
 
 on:
-  schedule: # executes every 12 hours
+  schedule: # execute every 12 hours
     - cron: "* */12 * * *"
-  workflow_dispatch: # allows you to run this manually anytime
+  workflow_dispatch: # run manually
 
 permissions:
   contents: write
@@ -13,10 +13,10 @@ jobs:
     name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-      # 1. Checkout the repository
+      # 1. Checkout Repo
       - uses: actions/checkout@v3
 
-      # 2. Generate the Snake Game (Animation)
+      # 2. Generate Snake Animation (Fixed)
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
@@ -25,14 +25,14 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      # 3. Generate the 3D City (Fixed Version)
+      # 3. Generate 3D City (FIXED USERNAME HERE)
       - name: Generate 3D Contribution Graph
-        uses: yoshi389105/github-profile-3d-contrib@0.8.0
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      # 4. Push the new images to the "output" branch
+      # 4. Push New Images to Output Branch
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
