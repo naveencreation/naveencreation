@@ -56,3 +56,133 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:000000&height=100&section=footer" width="100%"/>
 </div>
+
+
+<br />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+</div>
+<br />
+
+<h2 align="center">🚀 DEPLOYED_SYSTEMS</h2>
+
+<table border="0" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 AegisPrep</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="20" />
+        <img src="https://img.shields.io/badge/FASTAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" height="20" />
+        <img src="https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=white" height="20" />
+      </div>
+      <br />
+      <p align="center">
+        <b>Full-Stack ML Preprocessing Engine.</b><br/>
+        A high-performance tool to clean, visualize, and prepare datasets for training.
+      </p>
+      <ul>
+        <li>⚡ <b>Frontend:</b> Vite + Shadcn UI + Tailwind</li>
+        <li>🛡️ <b>Backend:</b> FastAPI + SQLAlchemy</li>
+        <li>✨ <b>Key Feature:</b> Automated Missing Value Handling</li>
+      </ul>
+      <div align="center">
+        <a href="https://github.com/naveencreation/AegisPrep">
+          <img src="https://img.shields.io/badge/SOURCE_CODE-FF0055?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+    </td>
+
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 HR Auto-Agents</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/LANGCHAIN-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="20" />
+        <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20" />
+        <img src="https://img.shields.io/badge/OPENAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="20" />
+      </div>
+      <br />
+      <p align="center">
+        <b>Multi-Agent Automation System.</b><br/>
+        Intelligent agents that triage and process HR documents automatically.
+      </p>
+      <ul>
+        <li>🧠 <b>Core:</b> LangChain + LLM Orchestration</li>
+        <li>📄 <b>Target:</b> Internship & Termination Letters</li>
+        <li>📉 <b>Impact:</b> Reduced manual review by 90%</li>
+      </ul>
+      <div align="center">
+        <a href="https://github.com/naveencreation">
+          <img src="https://img.shields.io/badge/SOURCE_CODE-00F5FF?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🚚 Logistics Optimizer</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" height="20" />
+        <img src="https://img.shields.io/badge/GOOGLE_MAPS-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" height="20" />
+      </div>
+      <br />
+      <p align="center">
+        <b>Genetic Algorithm for Route Planning.</b><br/>
+        Optimized delivery routes for 100+ nodes using evolutionary algorithms.
+      </p>
+      <ul>
+        <li>🧬 <b>Algo:</b> DEAP (Distributed Evolutionary Algorithms)</li>
+        <li>💰 <b>Result:</b> 30% reduction in simulated fuel costs</li>
+        <li>📊 <b>UI:</b> Interactive Streamlit Dashboard</li>
+      </ul>
+      <div align="center">
+        <a href="https://github.com/naveencreation">
+          <img src="https://img.shields.io/badge/SOURCE_CODE-7928CA?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+    </td>
+
+    <td width="50%" valign="top">
+      <h3 align="center">🏥 Medico Plus</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/MERN_STACK-000000?style=for-the-badge&logo=react&logoColor=61DAFB" height="20" />
+        <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="20" />
+      </div>
+      <br />
+      <p align="center">
+        <b>Scalable Healthcare SaaS Platform.</b><br/>
+        Full-featured appointment booking and patient management system.
+      </p>
+      <ul>
+        <li>🌍 <b>Feature:</b> Multilingual Support (Eng/Tam)</li>
+        <li>🔒 <b>Security:</b> JWT Auth & Encrypted Data</li>
+        <li>🚀 <b>Tech:</b> React, Node.js, MongoDB</li>
+      </ul>
+      <div align="center">
+        <a href="https://github.com/naveencreation">
+          <img src="https://img.shields.io/badge/SOURCE_CODE-33FF00?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<div align="center">
+  <h3 align="center">🤝 ESTABLISH_UPLINK</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/naveen0004/" target="_blank">
+      <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:naveenselvan0004@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/GMAIL-SEND_MESSAGE-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://leetcode.com/u/naveenselvan/" target="_blank">
+      <img src="https://img.shields.io/badge/LEETCODE-COMPETE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    </a>
+  </p>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:000000&height=120&section=footer&text=THANKS%20FOR%20VISITING&fontSize=20&fontColor=ffffff" width="100%"/>
+</div>
